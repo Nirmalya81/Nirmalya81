@@ -55,7 +55,7 @@ Explore some of my Unity-based game development work:
 
 - 🧠 **[Puzzle Game (Unity)](https://github.com/Nirmalya81?tab=repositories&q=unity+puzzle)** – Designed levels and player logic in Unity C#
 - 👾 **[2D Platformer](https://github.com/Nirmalya81?tab=repositories&q=unity+platformer)** – Jump mechanics, enemy AI, and UI overlays
-- 🧪 **[Prototype Experiments](https://github.com/Nirmalya81?tab=repositories&q=unity+prototype)** – Experimental projects testing Unity features and concepts
+- 🧪 **[AR Application](https://github.com/Nirmalya81?tab=repositories&q=unity+ar)** – Augmented reality experience built with Unity and AR Foundation
 
 ---
 
