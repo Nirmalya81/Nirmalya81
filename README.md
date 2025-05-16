@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Nirmalya Swain</h1>
 <h3 align="center">UI/UX Designer | Game Developer | Front-end Enthusiast</h3>
 
@@ -48,6 +49,16 @@ Here are a few highlighted projects from my portfolio:
 
 ---
 
+🕹️ **Unity Projects**
+
+Explore some of my Unity-based game development work:
+
+- 🧠 **[Puzzle Game (Unity)](https://github.com/Nirmalya81?tab=repositories&q=unity+puzzle)** – Designed levels and player logic in Unity C#
+- 👾 **[2D Platformer](https://github.com/Nirmalya81?tab=repositories&q=unity+platformer)** – Jump mechanics, enemy AI, and UI overlays
+- 🧪 **[Prototype Experiments](https://github.com/Nirmalya81?tab=repositories&q=unity+prototype)** – Experimental projects testing Unity features and concepts
+
+---
+
 📫 **Let’s Connect!**
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/nirmalya-swain-136740282/)  
@@ -58,4 +69,3 @@ Here are a few highlighted projects from my portfolio:
 
 ⭐ **Fun Fact**  
 > I blend the art of **design thinking** with the logic of **game mechanics** to create delightful digital journeys.  
-
